@@ -1,4 +1,4 @@
-## Olá Eu sou o Pedro Araújo
+## Olá, eu sou o Pedro Araújo
 
 <div align="center">
   <a href="https://github.com/Pedroshalom">
