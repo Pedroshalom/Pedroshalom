@@ -1,4 +1,10 @@
-## Olá, eu sou o Pedro Araújo
+## Olá, eu sou o Pedro Araújo <img src="https://media0.giphy.com/media/yUPOIihbfS3A7v0vML/giphy.gif?cid=790b761171163e09404a86cd4c52a51458a4b56a216b95aa&rid=giphy.gif&ct=s" width="50"></h2>
+
+
+<p>Estudante de desenvolvimento web na <img src="https://media4.giphy.com/media/AuOc4PopTVr2YJPvbu/giphy.gif?cid=ecf05e47jf5n8ucx2h8953gk8vr0vr9oz4olijclwvyhgyg7&rid=giphy.gif&ct=s" width="50"></p>
+
+
+---
 
 <div align="center">
   <a href="https://github.com/Pedroshalom">
