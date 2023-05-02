@@ -48,7 +48,6 @@ E-mail para contato: (pedroshalommrn@hotmail.com)
 
   <a href="https://www.instagram.com/pedrinho_shalom/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rsakae/"/></a>
- ![Snake animation]https://github.com/Pedroshalom/blob/output/github-contribution-grid-snake.svg)
     </p> 
 
  
