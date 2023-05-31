@@ -3,10 +3,7 @@
 
 ## Olá, eu sou o Pedro Araújo <img src="https://media0.giphy.com/media/yUPOIihbfS3A7v0vML/giphy.gif?cid=790b761171163e09404a86cd4c52a51458a4b56a216b95aa&rid=giphy.gif&ct=s" width="50"></h2>
 
-<p>🌍 Sou de Natal RN</p> 
-
-
-<p>Desenvolvedor fullstack.</p>
+<h2>Desenvolvedor fullstack.</h2>
 
 E-mail para contato: (pedroshalommrn@hotmail.com)
 
