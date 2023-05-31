@@ -8,6 +8,8 @@
 
 <p>Desenvolvedor fullstack.</p>
 
+<p>Veja meu portfólio em https://pedro-manoel.vercel.app/</p>
+
 
 E-mail para contato: (pedroshalommrn@hotmail.com)
 
