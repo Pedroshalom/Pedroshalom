@@ -16,9 +16,8 @@ E-mail para contato: (pedroshalommrn@hotmail.com)
   <a href="https://github.com/Pedroshalom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroshalom&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroshalom&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/Pedroshalomryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?Pedroshalom=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
   
    <div style="display: flex"><br>
      <h3>Linguagens e Ferramentas</h3>
