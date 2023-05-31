@@ -1,7 +1,7 @@
 
 
 
-## Olá, eu sou o Pedro Araújo<img  align="center" src="https://media0.giphy.com/media/yUPOIihbfS3A7v0vML/giphy.gif?   ##                           cid=790b761171163e09404a86cd4c52a51458a4b56a216b95aa&rid=giphy.gif&ct=s" width="50"></h2>
+## Olá, eu sou o Pedro Araújo<img src="https://media0.giphy.com/media/yUPOIihbfS3A7v0vML/giphy.gif?   ##                           cid=790b761171163e09404a86cd4c52a51458a4b56a216b95aa&rid=giphy.gif&ct=s" width="50"></h2>
 
 <h2>Desenvolvedor fullstack.</h2>
 
@@ -13,9 +13,6 @@ E-mail para contato: (pedroshalommrn@hotmail.com)
   <a href="https://github.com/Pedroshalom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroshalom&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroshalom&layout=compact&langs_count=7&theme=highcontrast"/>
-  </div>
-  <div>
-  [![trophy](https://github-profile-trophy.vercel.app/Pedroshalomryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
   
    <div style="display: flex"><br>
