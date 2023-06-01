@@ -11,8 +11,8 @@ Sou de Natal-RN. Sou apreciador da tecnologia, e marcas que trabalhem para contr
 
 <div align="center">
   <a href="https://github.com/Pedroshalom">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacost&show_icons=true&theme=github_dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacost&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroshalom&show_icons=true&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroshalom&theme=github_dark"/>
   </div>
   
    <div style="display: flex"><br>
