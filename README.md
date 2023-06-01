@@ -1,50 +1,61 @@
 
 
+<div align="center"> <img src="https://github.com/Pedroshalom/Pedroshalom/assets/99991522/f305618e-7a8b-41dd-8fa4-24fdf616f40c"> </div>
+</br>
 
-<h1 align="center">Olá, eu sou o Pedro Araújo</h1>
-
-<h2 align="center">Desenvolvedor fullstack.</h2>
-
-E-mail para contato: (pedroshalommrn@hotmail.com)
+<p align='left'>
+Sou de Natal-RN. Sou apreciador da tecnologia, e marcas que trabalhem para contribuir com uma melhor interação digital. Acredito que a programação me ajuda a desenvolver aplicações que melhoram a experiência e como as pessoas usam páginas web. Atualmente sou estudante de desenvolvimento de software na Trybe onde cocncluí os módulos de Front-end e Back-end e estou terminando módulo de Ciência da Computação.
+</p>
 
 ---
 
 <div align="center">
   <a href="https://github.com/Pedroshalom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroshalom&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroshalom&layout=compact&langs_count=7&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacost&show_icons=true&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacost&theme=github_dark"/>
   </div>
   
    <div style="display: flex"><br>
      <h3>Linguagens e Ferramentas</h3>
    <div><br>
-     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-     </div>
-     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-     <div>
-     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit">
-   </div>  
-     </div>
+       <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=black&colorA=00008B&colorB=blue" /> 
+   
+  <img src="https://img.shields.io/badge/HTML5-0b6b81?style=for-the-badge&logo=html5&logoColor=black&colorA=00008B&colorB=blue" />  
+  <img src="https://img.shields.io/badge/CSS3-0b6b81?style=for-the-badge&logo=css3&logoColor=black&colorA=00008B&colorB=blue" />  
+  <img src="https://img.shields.io/badge/JavaScript-0b6b81?style=for-the-badge&logo=javascript&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/TypeScript-0b6b81?style=for-the-badge&logo=typescript&logoColor=black&colorA=00008B&colorB=blue" />
+  
+  <img src="https://img.shields.io/badge/React-0b6b81?style=for-the-badge&logo=react&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Redux-0b6b81?style=for-the-badge&logo=redux&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/React_Router-0b6b81?style=for-the-badge&logo=react-router&logoColor=black&colorA=00008B&colorB=blue" />
+   
+  <img src="https://img.shields.io/badge/Docker-0b6b81?style=for-the-badge&logo=docker&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Node.js-0b6b81?style=for-the-badge&logo=node.js&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Express.js-0b6b81?style=for-the-badge&logo=express&logoColor=black&colorA=00008B&colorB=blue" /> 
+  <img src="https://img.shields.io/badge/MySQL-0b6b81?style=for-the-badge&logo=mysql&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Sequelize-0b6b81?style=for-the-badge&logo=sequelize&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/MongoDB-0b6b81?style=for-the-badge&logo=mongoDB&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Mongoose-0b6b81?style=for-the-badge&logo=mongoDB&logoColor=black&colorA=00008B&colorB=blue" />
+   
+  <img src="https://img.shields.io/badge/Jest-0b6b81?style=for-the-badge&logo=jest&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Testing_Library-0b6b81?style=for-the-badge&logo=testinglibrary&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Mocha-0b6b81?style=for-the-badge&logo=mocha&logoColor=black&colorA=00008B&colorB=blue" />
+  <img src="https://img.shields.io/badge/Chai-0b6b81?style=for-the-badge&logo=chai&logoColor=black&colorA=00008B&colorB=blue" />
+</p>
+  
   
   ##
-  
+ 
+</p>
   <div> 
   <h3 align="left">Onde me encontrar:</h3>
-   <a href="https://www.linkedin.com/in/pedro-manoel-santos/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigosakae/" /></a>
+   <a href="https://www.linkedin.com/in/pedro-manoel-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black&colorA=00008B&colorB=blue" style="border-radius: 30px" target="_blank"></a> 
 
   <a href="http://wa.me/+5584987836762" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://wa.me/+5584987836762"/></a>
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=black&colorA=00008B&colorB=blue" style="border-radius: 30px" target="_blank">
 
-  <a href="https://www.instagram.com/pedrinho_shalom/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rsakae/"/></a>
+ <a href = "mailto:pedroshalommrn@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=black&colorA=00008B&colorB=blue" target="_blank"></a>
     </p> 
 
  
