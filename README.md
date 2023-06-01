@@ -1,6 +1,9 @@
 
 
-<div align="center"> <img src="https://github.com/Pedroshalom/Pedroshalom/assets/99991522/f305618e-7a8b-41dd-8fa4-24fdf616f40c"> </div>
+<div align="center"> <img src="https://github.com/Pedroshalom/Pedroshalom/assets/99991522/68542352-cd7b-4f9e-8a19-6373e8e2a83c"> </div>
+
+<h3 align="center"> Sou Desenvolvedor Full-Stack</h3>
+
 </br>
 
 <p align='left'>
